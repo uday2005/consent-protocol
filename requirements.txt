@@ -19,3 +19,10 @@ pytest==8.2.2
 
 # 📦 Optional OAuth / Apple ID agents
 requests==2.32.3
+
+Flask
+Flask-CORS
+python-dotenv
+
+google-auth
+google-auth-oauthlib
